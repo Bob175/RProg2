@@ -1,6 +1,6 @@
 ## Cached Matrix Inversion
 ## The first function, invertMatrix, will compute the inverse of an
-## invertible matrix using the 2nd and third functions.
+## invertible matrix using the second and third functions.
 
 ## Example usage:
 #>a <- matrix(1:4, 2)
